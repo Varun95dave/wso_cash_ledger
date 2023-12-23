@@ -1,0 +1,477 @@
+Traded,Settled,Received,Action,Description,Source,Security ID,Amount,Received,Changed By,Changed On
+20-12-2022,20-12-2022,20-12-2022,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"1,50,00,000.00",FALSE,GDaci,28-12-2022
+20-12-2022,20-12-2022,20-12-2022,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-1,85,892.00",FALSE,SKratka,28-12-2022
+20-12-2022,20-12-2022,20-12-2022,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-3,00,000.00",FALSE,SKratka,28-12-2022
+20-12-2022,20-12-2022,20-12-2022,Administration Expense,Administration Expense,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-50,000.00",FALSE,SKratka,28-12-2022
+19-12-2022,21-12-2022,21-12-2022,Buy,Buy,A1 Garage Common Equity-Common Equity-PCOF IV-Long,1680,"-10,96,519.02",FALSE,JMartino,18-01-2023
+19-12-2022,22-12-2022,21-12-2022,Buy,Principal (Buy),A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"-50,00,000.00",FALSE,DMinkin,05-04-2023
+19-12-2022,22-12-2022,21-12-2022,Upfront Fee (Buy),Upfront Fee (Buy),A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"1,00,000.00",FALSE,DMinkin,05-04-2023
+21-12-2022,21-12-2022,21-12-2022,Commitment Fee,Commitment Fee,A1 Garage Doors-First Lien - Rev 2018-PCOF IV-Assignment,1679,"25,316.46",FALSE,JMartino,18-01-2023
+22-12-2022,22-12-2022,21-12-2022,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"17,405.06",FALSE,DMinkin,05-04-2023
+22-12-2022,22-12-2022,21-12-2022,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-6,07,594.94",FALSE,DMinkin,05-04-2023
+03-01-2023,03-01-2023,21-12-2022,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"9,113.92",FALSE,JMartino,18-01-2023
+21-12-2022,28-12-2022,28-12-2022,Upfront Fee (Buy),Upfront Fee (Buy),Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"1,00,000.00",FALSE,JMartino,04-01-2023
+21-12-2022,28-12-2022,28-12-2022,Buy,Principal (Buy),Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"-50,00,000.00",FALSE,JMartino,04-01-2023
+21-12-2022,28-12-2022,28-12-2022,Buy,Buy,Infinity-Common Equity-PCOF IV-Long,1692,"-9,92,481.21",FALSE,gandalf,27-12-2022
+28-12-2022,28-12-2022,28-12-2022,Payable - Organizational Costs,Direct Batch 2022 12 26,*** Direct Entry ***,,"-3,51,915.17",FALSE,zford,07-03-2023
+28-12-2022,28-12-2022,28-12-2022,Commitment Fee,Commitment Fee,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"52,631.58",FALSE,JMartino,04-01-2023
+28-12-2022,28-12-2022,28-12-2022,Commitment Fee,Commitment Fee,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"21,052.63",FALSE,JMartino,04-01-2023
+30-12-2022,30-12-2022,30-12-2022,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - Rev 2018-PCOF IV-Assignment,1679,140.65,FALSE,DMinkin,05-04-2023
+30-12-2022,30-12-2022,30-12-2022,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,51,513.52",FALSE,SKratka,17-02-2023
+04-01-2023,04-01-2023,04-01-2023,Interest,MMKT Interest,*** Direct Entry ***,,"8,285.83",FALSE,JMartino,05-09-2023
+09-01-2023,09-01-2023,09-01-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"30,00,000.00",FALSE,GSmith,09-01-2023
+19-12-2022,10-01-2023,10-01-2023,Commitment Fee,Commitment Fee,Epiq-First Lien - DDTL-PCOF IV-Assignment,1685,"6,562.50",FALSE,MVisgilio,11-01-2023
+19-12-2022,10-01-2023,10-01-2023,Upfront Fee (Buy),Upfront Fee (Buy),Epiq-First Lien TL-PCOF IV-Assignment,1686,"52,500.00",FALSE,MVisgilio,11-01-2023
+19-12-2022,10-01-2023,10-01-2023,Buy,Principal (Buy),Epiq-First Lien TL-PCOF IV-Assignment,1686,"-35,00,000.00",FALSE,MVisgilio,11-01-2023
+10-01-2023,10-01-2023,10-01-2023,Commitment Fee,Commitment Fee,Epiq-First Lien - Rev 2018-PCOF IV-Assignment,1684,"11,812.50",FALSE,MVisgilio,11-01-2023
+19-12-2022,11-01-2023,11-01-2023,Buy,Buy,Epiq-Common Equity-PCOF IV-Long,1687,"-4,37,500.00",FALSE,gandalf,11-01-2023
+20-01-2023,20-01-2023,20-01-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-85,286.94",FALSE,GSmith,23-01-2023
+20-01-2023,20-01-2023,20-01-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,411.27,FALSE,JMartino,14-09-2023
+27-01-2023,27-01-2023,27-01-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"90,00,000.00",FALSE,GSmith,27-01-2023
+18-01-2023,31-01-2023,31-01-2023,Upfront Fee (Buy),Upfront Fee,Ardurra Group-Revolving Credit-PCOF IV-Assignment,LX210728, -   ,FALSE,JMartino,01-02-2023
+18-01-2023,31-01-2023,31-01-2023,Upfront Fee (Buy),Upfront Fee (Buy),Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"40,000.00",FALSE,JMartino,01-02-2023
+18-01-2023,31-01-2023,31-01-2023,Buy,Principal (Buy),Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"-20,00,000.00",FALSE,JMartino,01-02-2023
+30-01-2023,31-01-2023,31-01-2023,Interest - Accrued Fee,Incentive Fee on Net Investment Income,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,909.18,FALSE,MVisgilio,08-02-2023
+30-01-2023,31-01-2023,31-01-2023,Upfront Fee (Buy),Upfront Fee (Buy),"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"37,500.00",FALSE,MVisgilio,08-02-2023
+30-01-2023,31-01-2023,31-01-2023,Buy,Principal (Buy),"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"-30,00,000.00",FALSE,MVisgilio,08-02-2023
+30-01-2023,31-01-2023,31-01-2023,Buy,Buy,Common Equity-Common Equity-PCOF IV-Long,1703,"-4,37,000.00",FALSE,gandalf,01-02-2023
+31-01-2023,31-01-2023,31-01-2023,Upfront Fee,Upfront Fee,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"10,869.57",FALSE,JMartino,01-02-2023
+31-01-2023,31-01-2023,31-01-2023,Upfront Fee,Upfront Fee,Ardurra Group-Revolving Credit-PCOF IV-Assignment,LX210728,"17,391.30",FALSE,JMartino,01-02-2023
+31-01-2023,31-01-2023,31-01-2023,Commitment Fee,Commitment Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,"4,464.29",FALSE,MVisgilio,02-02-2023
+31-01-2023,31-01-2023,31-01-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-5,00,000.00",FALSE,SKratka,31-01-2023
+18-01-2023,01-02-2023,01-02-2023,Buy,Buy,Ardurra Common Equity-Common Equity-PCOF IV-Long,1698,"-12,60,869.57",FALSE,gandalf,01-02-2023
+20-01-2023,01-02-2023,01-02-2023,Upfront Fee (Buy),Upfront Fee (Buy),Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"33,333.33",FALSE,JMartino,01-02-2023
+20-01-2023,01-02-2023,01-02-2023,Buy,Principal (Buy),Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"-16,66,666.67",FALSE,JMartino,01-02-2023
+20-01-2023,01-02-2023,01-02-2023,Buy,Buy,Solaris Health-Common Equity-PCOF IV-Long,1706,"-2,77,777.78",FALSE,gandalf,01-02-2023
+01-02-2023,01-02-2023,01-02-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"35,00,000.00",FALSE,GSmith,01-02-2023
+01-02-2023,01-02-2023,01-02-2023,Upfront Fee,Upfront Fee,Solaris Health-DDTL-PCOF IV-Assignment,1705,"22,222.22",FALSE,JMartino,01-02-2023
+02-02-2023,02-02-2023,02-02-2023,Dividend Income,MMKT Dividend,*** Direct Entry ***,,"7,660.37",FALSE,JMartino,05-09-2023
+19-01-2023,03-02-2023,03-02-2023,Upfront Fee (Buy),Upfront Fee (Buy),ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"35,000.00",FALSE,JMartino,27-02-2023
+19-01-2023,03-02-2023,03-02-2023,Buy,Principal (Buy),ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"-35,00,000.00",FALSE,JMartino,27-02-2023
+03-02-2023,03-02-2023,03-02-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"15,00,000.00",FALSE,GSmith,03-02-2023
+09-02-2023,09-02-2023,09-02-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-17,264.55",FALSE,GSmith,09-02-2023
+16-02-2023,16-02-2023,16-02-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-79,994.83",FALSE,SKratka,17-02-2023
+21-02-2023,21-02-2023,21-02-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-89,843.60",FALSE,GSmith,22-02-2023
+21-02-2023,23-02-2023,23-02-2023,Buy,Buy,Five Star-Common Equity-PCOF IV-Long,1724,"-4,88,571.43",FALSE,gandalf,24-02-2023
+21-02-2023,23-02-2023,23-02-2023,Upfront Fee (Buy),Upfront Fee (Buy),Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"60,000.00",FALSE,JMartino,27-02-2023
+21-02-2023,23-02-2023,23-02-2023,Buy,Principal (Buy),Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"-30,00,000.00",FALSE,JMartino,27-02-2023
+21-02-2023,23-02-2023,23-02-2023,Upfront Fee (Buy),Upfront Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722, -   ,FALSE,JMartino,27-02-2023
+23-02-2023,23-02-2023,23-02-2023,Commitment Fee,Commitment Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,"6,857.14",FALSE,JMartino,27-02-2023
+23-02-2023,23-02-2023,23-02-2023,Commitment Fee,Commitment Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"14,571.43",FALSE,JMartino,27-02-2023
+23-02-2023,23-02-2023,23-02-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"35,00,000.00",FALSE,GSmith,23-02-2023
+27-02-2023,27-02-2023,27-02-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-52,607.31",FALSE,GSmith,07-03-2023
+27-02-2023,27-02-2023,27-02-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-17,245.71",FALSE,GSmith,07-03-2023
+27-02-2023,27-02-2023,27-02-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-6,817.13",FALSE,GSmith,07-03-2023
+28-02-2023,28-02-2023,27-02-2023,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-1,33,291.14",FALSE,DMinkin,05-04-2023
+28-02-2023,28-02-2023,27-02-2023,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,999.37",FALSE,DMinkin,05-04-2023
+28-02-2023,28-02-2023,28-02-2023,Interest - Accrued Fee,Debit Interest (Cash Funded After Sweep),*** Direct Entry ***,,-43.72,FALSE,JMartino,26-09-2023
+28-02-2023,28-02-2023,28-02-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,138.89,FALSE,DMinkin,21-03-2023
+28-02-2023,28-02-2023,28-02-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"25,835.79",FALSE,SKanwisher,22-02-2023
+28-02-2023,28-02-2023,28-02-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"29,594.25",FALSE,EFan,18-04-2023
+02-03-2023,02-03-2023,02-03-2023,Payable – Miscellaneous Fee,Accrued Misc Payable,*** Direct Entry ***,,"-2,500.00",FALSE,JMartino,27-09-2023
+02-03-2023,02-03-2023,02-03-2023,Interest,MMKT Dividend,*** Direct Entry ***,,"6,877.71",FALSE,JMartino,27-09-2023
+30-12-2022,30-12-2022,03-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,638.54,FALSE,DMinkin,05-04-2023
+28-02-2023,28-02-2023,08-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,23.81,FALSE,JMartino,27-09-2023
+28-02-2023,28-02-2023,08-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,50.6,FALSE,JMartino,27-09-2023
+10-03-2023,10-03-2023,10-03-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-16,470.67",FALSE,GSmith,10-03-2023
+17-03-2023,17-03-2023,17-03-2023,Borrowing,Borrowing,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"-4,21,052.63",FALSE,JMartino,27-03-2023
+23-03-2023,23-03-2023,23-03-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"27,208.58",FALSE,JMartino,19-04-2023
+27-03-2023,27-03-2023,27-03-2023,Prime Borrowing,Prime Borrowing,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"-78,947.37",FALSE,JMartino,27-03-2023
+28-03-2023,28-03-2023,27-03-2023,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,707.91",FALSE,DMinkin,05-04-2023
+28-03-2023,28-03-2023,27-03-2023,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-1,13,860.76",FALSE,DMinkin,05-04-2023
+28-03-2023,28-03-2023,28-03-2023,Payable - Organizational Costs,Accrued Organizational Costs,*** Direct Entry ***,,"-14,865.99",FALSE,JMartino,10-10-2023
+28-03-2023,28-03-2023,28-03-2023,Interest,Interest,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"1,42,495.75",FALSE,JMartino,19-04-2023
+28-03-2023,28-03-2023,28-03-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"30,00,000.00",FALSE,GSmith,28-03-2023
+27-03-2023,31-03-2023,31-03-2023,Upfront Fee (Buy),Upfront Fee (Buy),Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"60,000.00",FALSE,JMartino,05-04-2023
+27-03-2023,31-03-2023,31-03-2023,Buy,Principal (Buy),Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"-30,00,000.00",FALSE,JMartino,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,284.65,FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"18,586.20",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,518.99",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"7,139.09",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,333.23,FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - Rev 2018-PCOF IV-Assignment,1679,"1,599.86",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Interest,Interest,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"1,52,948.95",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Paydown,Paydown,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"12,500.00",FALSE,DMinkin,05-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,153.77,FALSE,SKratka,01-06-2023
+31-03-2023,31-03-2023,31-03-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"28,832.02",FALSE,MVisgilio,23-03-2023
+31-03-2023,31-03-2023,31-03-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"36,866.16",FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Paydown,Paydown,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"8,883.25",FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - DDTL-PCOF IV-Assignment,1685,"2,916.67",FALSE,EFan,14-03-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - Rev 2018-PCOF IV-Assignment,1684,875,FALSE,EFan,14-03-2023
+31-03-2023,31-03-2023,31-03-2023,LIBOR Interest,LIBOR Interest,Epiq-First Lien TL-PCOF IV-Assignment,1686,"84,820.87",FALSE,EFan,14-03-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,147.62,FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Process Receivable,Five Star-FL DDTLB-PCOF IV-Assignment,1722,50.59,FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,627.38,FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Paydown,Paydown,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"12,500.00",FALSE,SKratka,08-06-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"6,634.50",FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"1,355.26",FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,Prime Interest,PRIME Interest,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,118.96,FALSE,JMartino,19-04-2023
+31-03-2023,31-03-2023,31-03-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-1,09,143.44",FALSE,GSmith,03-04-2023
+31-03-2023,31-03-2023,31-03-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-24,117.87",FALSE,GSmith,03-04-2023
+31-03-2023,31-03-2023,31-03-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-86,299.98",FALSE,GSmith,03-04-2023
+31-03-2023,31-03-2023,31-03-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-12,436.31",FALSE,GSmith,03-04-2023
+31-03-2023,31-03-2023,31-03-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-46,847.22",FALSE,GSmith,11-05-2023
+31-03-2023,31-03-2023,31-03-2023,Interest,Interest,Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"29,766.59",FALSE,DMinkin,11-04-2023
+31-03-2023,31-03-2023,31-03-2023,Paydown,Paydown,Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"4,166.67",FALSE,DMinkin,11-04-2023
+31-03-2023,31-03-2023,31-03-2023,Interest Accrual Adjustment,Interest Adjustment,Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,-513.21,FALSE,JMartino,10-10-2023
+03-04-2023,03-04-2023,03-04-2023,Interest Accrual Adjustment,Accrual Adjustment,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"3,042.21",FALSE,JMartino,10-10-2023
+04-04-2023,04-04-2023,04-04-2023,Interest,MMKT Interest,*** Direct Entry ***,,"6,076.14",FALSE,JMartino,08-11-2023
+28-03-2023,05-04-2023,05-04-2023,Buy,Buy,Common Equity-Common Equity-PCOF IV-Long,1745,"-2,70,270.28",FALSE,JMartino,22-05-2023
+28-03-2023,05-04-2023,05-04-2023,Upfront Fee (Buy),Upfront Fee (Buy),Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"72,072.07",FALSE,JMartino,18-04-2023
+28-03-2023,05-04-2023,05-04-2023,Buy,Principal (Buy),Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"-36,03,603.60",FALSE,JMartino,18-04-2023
+05-04-2023,05-04-2023,05-04-2023,Borrowing,Borrowing,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"-4,52,631.58",FALSE,JMartino,19-04-2023
+05-04-2023,05-04-2023,05-04-2023,Commitment Fee,Commitment Fee,Simplicity Group-1L - DDTL - DDTL-PCOF IV-Assignment,1744,"17,792.79",FALSE,JMartino,18-04-2023
+05-04-2023,05-04-2023,05-04-2023,Commitment Fee,Commitment Fee,Simplicity Group-Revolving Loan-PCOF IV-Assignment,1742,"4,729.73",FALSE,JMartino,18-04-2023
+30-03-2023,10-04-2023,10-04-2023,Economic Benefit,Economic Benefit,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,902.26,FALSE,JMartino,18-04-2023
+30-03-2023,10-04-2023,10-04-2023,Upfront Fee (Buy),Upfront Fee (Buy),"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"3,59,097.74",FALSE,JMartino,18-04-2023
+30-03-2023,10-04-2023,10-04-2023,Buy,Principal (Buy),"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"-29,92,481.20",FALSE,JMartino,18-04-2023
+24-04-2023,24-04-2023,24-04-2023,Feeder Receivable,Feeder Receivable,*** Direct Entry ***,,"-5,000.00",FALSE,SKratka,24-04-2023
+28-04-2023,28-04-2023,28-04-2023,Management Fee,Management Fee,*** Direct Entry ***,,"-58,479.18",FALSE,SKratka,05-05-2023
+28-04-2023,28-04-2023,28-04-2023,Interest,Interest,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"12,000.73",FALSE,SKratka,19-05-2023
+28-04-2023,28-04-2023,28-04-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"33,728.26",FALSE,JMartino,01-05-2023
+28-04-2023,28-04-2023,28-04-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,133.33,FALSE,JMartino,22-05-2023
+28-04-2023,28-04-2023,28-04-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,566.67,FALSE,JMartino,22-05-2023
+28-04-2023,28-04-2023,28-04-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-18,226.89",FALSE,GSmith,11-05-2023
+28-04-2023,28-04-2023,28-04-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-1,94,852.16",FALSE,GSmith,11-05-2023
+28-04-2023,28-04-2023,28-04-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"1,00,00,000.00",FALSE,GSmith,11-05-2023
+28-04-2023,28-04-2023,28-04-2023,Interest Accrual Adjustment,Accrual Adjustment,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-48,982.01",FALSE,JMartino,08-11-2023
+30-04-2023,30-04-2023,30-04-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,148.81,FALSE,SKratka,01-06-2023
+30-04-2023,30-04-2023,30-04-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"28,256.10",FALSE,SKratka,01-06-2023
+01-05-2023,01-05-2023,01-05-2023,Interest,Interest,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"56,028.71",FALSE,SKanwisher,13-07-2023
+02-05-2023,02-05-2023,02-05-2023,Received Accrued Interest,MMKT Interest,*** Direct Entry ***,,"19,502.42",FALSE,JMartino,13-11-2023
+08-05-2023,08-05-2023,08-05-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"70,00,000.00",FALSE,GSmith,11-05-2023
+05-05-2023,10-05-2023,10-05-2023,Upfront Fee (Buy),Upfront Fee (Buy),Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"75,000.00",FALSE,JMartino,06-06-2023
+05-05-2023,10-05-2023,10-05-2023,Buy,Principal (Buy),Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"-50,00,000.00",FALSE,JMartino,06-06-2023
+10-05-2023,10-05-2023,10-05-2023,Commitment Fee,Commitment Fee,Neptune Flood-Revolving Loan-PCOF IV-Assignment,LX212993,"3,947.37",FALSE,JMartino,06-06-2023
+31-03-2023,11-05-2023,11-05-2023,Upfront Fee (Buy),Upfront Fee (Buy),Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"5,654.05",FALSE,JMartino,22-05-2023
+31-03-2023,11-05-2023,11-05-2023,Buy,Principal (Buy),Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"-2,82,702.70",FALSE,JMartino,22-05-2023
+11-05-2023,11-05-2023,11-05-2023,Commitment Fee,Commitment Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,"4,179.15",FALSE,JMartino,22-05-2023
+11-05-2023,11-05-2023,11-05-2023,Commitment Fee,Commitment Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"1,023.94",FALSE,JMartino,22-05-2023
+12-05-2023,12-05-2023,12-05-2023,Refundable Paydown,Unscheduled Prime Paydown,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"78,947.37",FALSE,DMinkin,23-06-2023
+17-05-2023,17-05-2023,17-05-2023,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-9,22,151.90",FALSE,JMartino,21-06-2023
+17-05-2023,17-05-2023,17-05-2023,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"13,832.28",FALSE,JMartino,21-06-2023
+02-05-2023,19-05-2023,19-05-2023,Upfront Fee (Buy),Upfront Fee (Buy),MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"1,60,000.00",FALSE,JMartino,24-05-2023
+02-05-2023,19-05-2023,19-05-2023,Buy,Principal (Buy),MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"-20,00,000.00",FALSE,JMartino,24-05-2023
+23-05-2023,23-05-2023,23-05-2023,Interest,Process Receivable,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"3,789.71",FALSE,SKratka,29-06-2023
+24-05-2023,24-05-2023,24-05-2023,Borrowing,Borrowing,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"-1,55,953.67",FALSE,JMartino,12-07-2023
+25-05-2023,25-05-2023,25-05-2023,Commitment Fee,Commitment Fee,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,"3,600.00",FALSE,JMartino,06-06-2023
+24-05-2023,26-05-2023,26-05-2023,Buy,Buy,Engine & Transmission Exchange-Common Equity-PCOF IV-Long,1766,"-45,282.56",FALSE,JMartino,08-08-2023
+24-05-2023,26-05-2023,26-05-2023,Upfront Fee (Buy),Upfront Fee (Buy),Engine & Transmission Exchange-Term Loan A-PCOF IV-Assignment,LX212914,"30,000.00",FALSE,JMartino,06-06-2023
+24-05-2023,26-05-2023,26-05-2023,Buy,Principal (Buy),Engine & Transmission Exchange-Term Loan A-PCOF IV-Assignment,LX212914,"-15,00,000.00",FALSE,JMartino,06-06-2023
+24-05-2023,26-05-2023,26-05-2023,Buy,Principal (Buy),Engine & Transmission Exchange-Unsec - TL - Promissory Note-PCOF IV-Assignment,1794,"-25,990.86",FALSE,JMartino,21-08-2023
+26-05-2023,26-05-2023,26-05-2023,Borrowing,Borrowing,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,"-60,000.00",FALSE,JMartino,14-06-2023
+26-05-2023,26-05-2023,26-05-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"15,00,000.00",FALSE,GSmith,30-05-2023
+24-05-2023,31-05-2023,31-05-2023,Upfront Fee (Buy),Upfront Fee (Buy),Loving Tan-Closing Date Term Loan-PCOF IV-Assignment,LX213391,"50,000.00",FALSE,JMartino,31-05-2023
+24-05-2023,31-05-2023,31-05-2023,Buy,Principal (Buy),Loving Tan-Closing Date Term Loan-PCOF IV-Assignment,LX213391,"-25,00,000.00",FALSE,JMartino,31-05-2023
+25-05-2023,31-05-2023,31-05-2023,Buy,Buy,Loving Tan Equity-Common Equity-PCOF IV-Long,1776,"-2,31,413.46",FALSE,JMartino,07-08-2023
+31-05-2023,31-05-2023,31-05-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"3,907.54",FALSE,JMartino,11-07-2023
+31-05-2023,31-05-2023,31-05-2023,Interest,Interest,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"29,439.61",FALSE,SKratka,29-06-2023
+31-05-2023,31-05-2023,31-05-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,153.77,FALSE,zford,07-09-2023
+31-05-2023,31-05-2023,31-05-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"40,311.81",FALSE,JMartino,11-07-2023
+31-05-2023,31-05-2023,31-05-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,215.19,FALSE,JMartino,21-06-2023
+31-05-2023,31-05-2023,31-05-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,665.98,FALSE,JMartino,12-07-2023
+31-05-2023,31-05-2023,31-05-2023,Borrowing,Borrowing,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"-5,10,526.32",FALSE,JMartino,06-06-2023
+31-05-2023,31-05-2023,31-05-2023,Commitment Fee,Commitment Fee,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,"5,617.98",FALSE,JMartino,31-05-2023
+01-06-2023,01-06-2023,01-06-2023,Interest,Interest,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"19,785.53",FALSE,SKanwisher,13-07-2023
+01-06-2023,01-06-2023,01-06-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"29,756.59",FALSE,zford,06-09-2023
+02-06-2023,02-06-2023,02-06-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-3,48,186.02",FALSE,GSmith,05-06-2023
+02-06-2023,02-06-2023,02-06-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-80,00,000.00",FALSE,GSmith,05-06-2023
+05-06-2023,05-06-2023,05-06-2023,Capital Call,Capital Call,*** Direct Entry ***,,"2,50,00,000.00",FALSE,SKratka,14-06-2023
+06-06-2023,06-06-2023,06-06-2023,Borrowing,Borrowing,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"-43,897.93",FALSE,SKanwisher,06-06-2023
+07-06-2023,07-06-2023,07-06-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-43,361.79",FALSE,GSmith,09-06-2023
+07-06-2023,07-06-2023,07-06-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-70,00,000.00",FALSE,GSmith,09-06-2023
+07-06-2023,07-06-2023,07-06-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-3,750.40",FALSE,GSmith,09-06-2023
+07-06-2023,07-06-2023,07-06-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-15,00,000.00",FALSE,GSmith,09-06-2023
+07-06-2023,07-06-2023,07-06-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-80,00,000.00",FALSE,GSmith,12-06-2023
+27-03-2023,09-06-2023,09-06-2023,Upfront Fee (Buy),Upfront Fee (Buy),Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"2,10,000.00",FALSE,JMartino,11-07-2023
+27-03-2023,09-06-2023,09-06-2023,Buy,Principal (Buy),Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"-30,00,000.00",FALSE,JMartino,11-07-2023
+09-06-2023,09-06-2023,09-06-2023,Cost of Carry,Cost of Carry,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"-28,503.69",FALSE,JMartino,11-07-2023
+09-06-2023,09-06-2023,09-06-2023,Delayed Compensation,Delayed Compensation,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"75,561.94",FALSE,JMartino,11-07-2023
+09-06-2023,09-06-2023,09-06-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"28,00,000.00",FALSE,GSmith,09-06-2023
+12-06-2023,12-06-2023,12-06-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"41,020.76",FALSE,zford,07-07-2023
+13-06-2023,13-06-2023,13-06-2023,Unfunded Fee,Unfunded Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"10,398.42",FALSE,JMartino,13-06-2023
+13-06-2023,13-06-2023,13-06-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-5,317.26",FALSE,SKratka,13-06-2023
+13-06-2023,13-06-2023,13-06-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"40,00,000.00",FALSE,GSmith,13-06-2023
+14-06-2023,14-06-2023,14-06-2023,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-6,93,227.85",FALSE,JMartino,13-06-2023
+08-06-2023,16-06-2023,16-06-2023,Upfront Fee (Buy),Upfront Fee (Buy),Sparq-Closing Date Term Loan-PCOF IV-Assignment,LX213431,"50,000.00",FALSE,JMartino,20-06-2023
+08-06-2023,16-06-2023,16-06-2023,Buy,Principal (Buy),Sparq-Closing Date Term Loan-PCOF IV-Assignment,LX213431,"-25,00,000.00",FALSE,JMartino,20-06-2023
+08-06-2023,16-06-2023,16-06-2023,Buy,Buy,Sparq-Common Equity-PCOF IV-Long,1763,"-4,99,201.28",FALSE,JMartino,21-06-2023
+08-06-2023,16-06-2023,16-06-2023,Upfront Fee (Buy),Upfront Fee (Buy),Sparq-Delayed Draw Term Loan-PCOF IV-Assignment,1762,"8,333.33",FALSE,JMartino,21-06-2023
+16-06-2023,16-06-2023,16-06-2023,Upfront Fee,Upfront Fee,Sparq-Revolving Loan-PCOF IV-Assignment,1761,"8,333.33",FALSE,MVisgilio,18-07-2023
+20-06-2023,20-06-2023,20-06-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"13,030.33",FALSE,DMinkin,23-06-2023
+23-06-2023,23-06-2023,23-06-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"23,370.25",FALSE,zford,07-07-2023
+26-06-2023,26-06-2023,26-06-2023,Interest,Interest,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"1,743.78",FALSE,JMartino,12-07-2023
+26-06-2023,28-06-2023,28-06-2023,Upfront Fee (Buy),Upfront Fee (Buy),By Light Holdings LLC-T/L-PCOF IV-Assignment,1624,"60,000.00",FALSE,MVisgilio,28-06-2023
+26-06-2023,28-06-2023,28-06-2023,Buy,Principal (Buy),By Light Holdings LLC-T/L-PCOF IV-Assignment,1624,"-30,00,000.00",FALSE,MVisgilio,28-06-2023
+28-06-2023,28-06-2023,28-06-2023,Borrowing,Borrowing,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"-1,17,088.61",FALSE,JMartino,11-07-2023
+28-06-2023,28-06-2023,28-06-2023,Upfront Fee,Upfront Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,756.33",FALSE,JMartino,11-07-2023
+28-06-2023,28-06-2023,28-06-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"30,00,000.00",FALSE,GSmith,28-06-2023
+29-06-2023,30-06-2023,30-06-2023,Upfront Fee (Buy),Upfront Fee (Buy),"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"1,00,000.00",FALSE,EFan,05-07-2023
+29-06-2023,30-06-2023,30-06-2023,Buy,Principal (Buy),"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"-50,00,000.00",FALSE,EFan,05-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"3,403.70",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,284.18,FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"17,615.73",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,516.45",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"2,307.29",FALSE,DMinkin,11-08-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,76.03,FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,292.97,FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"3,619.46",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"1,734.50",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,332.67,FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"5,196.94",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - Rev 2018-PCOF IV-Assignment,1679,"1,599.86",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"1,44,962.80",FALSE,DMinkin,05-07-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"12,500.00",FALSE,DMinkin,05-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"87,574.84",FALSE,EFan,07-06-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"37,500.00",FALSE,EFan,07-06-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"8,997.58",FALSE,SKanwisher,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Ardurra Group-Revolving Credit-PCOF IV-Assignment,LX210728,"1,811.59",FALSE,JMartino,08-08-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"5,000.00",FALSE,SKanwisher,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"27,190.28",FALSE,SKratka,29-06-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"7,518.80",FALSE,SKratka,29-06-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,148.83,FALSE,zford,07-09-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"22,143.52",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"7,500.00",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"37,145.25",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"8,883.25",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,58.33,FALSE,JMartino,01-08-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - DDTL-PCOF IV-Assignment,1685,"3,317.71",FALSE,EFan,14-06-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - Rev 2018-PCOF IV-Assignment,1684,995.31,FALSE,EFan,14-06-2023
+30-06-2023,30-06-2023,30-06-2023,LIBOR Interest,LIBOR Interest,Epiq-First Lien TL-PCOF IV-Assignment,1686,"98,631.75",FALSE,EFan,14-06-2023
+30-06-2023,30-06-2023,30-06-2023,LIBOR Paydown,LIBOR Paydown,Epiq-First Lien TL-PCOF IV-Assignment,1686,"8,750.00",FALSE,EFan,14-06-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,229.92,FALSE,zford,21-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,519.85,FALSE,JMartino,12-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"1,52,723.62",FALSE,SKratka,06-07-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"12,500.00",FALSE,SKratka,06-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"5,106.73",FALSE,DMinkin,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"1,052.63",FALSE,DMinkin,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"4,051.73",FALSE,DMinkin,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Prime Interest,PRIME Interest,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"1,253.42",FALSE,DMinkin,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"1,284.36",FALSE,DMinkin,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Prime Borrowing,Prime Borrowing,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"-52,631.58",FALSE,SKanwisher,30-06-2023
+30-06-2023,30-06-2023,30-06-2023,Upfront Fee,Upfront Fee,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-1L RCF-PCOF IV-Assignment",1780,"-10,169.47",FALSE,MVisgilio,03-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"24,496.10",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Unscheduled Paydown,Unscheduled Paydown,MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"5,414.77",FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"55,00,000.00",FALSE,GSmith,30-06-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-15,606.94",FALSE,GSmith,06-07-2023
+30-06-2023,30-06-2023,30-06-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-1,99,559.90",FALSE,GSmith,13-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Simplicity Group-Revolving Loan-PCOF IV-Assignment,1742,282.47,FALSE,JMartino,11-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"97,454.87",FALSE,JMartino,10-07-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"9,009.01",FALSE,JMartino,10-07-2023
+30-06-2023,30-06-2023,30-06-2023,Interest,Interest,Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"47,759.11",FALSE,JMartino,14-08-2023
+30-06-2023,30-06-2023,30-06-2023,Paydown,Paydown,Solaris Health-2023 Incremental Term Loan-PCOF IV-Assignment,LX210840,"4,166.67",FALSE,JMartino,14-08-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Solaris Health-DDTL-PCOF IV-Assignment,1705,"5,401.23",FALSE,JMartino,08-08-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Sparq-Delayed Draw Term Loan-PCOF IV-Assignment,1762,216.05,FALSE,zford,21-07-2023
+30-06-2023,30-06-2023,30-06-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Sparq-Revolving Loan-PCOF IV-Assignment,1761,81.02,FALSE,zford,21-07-2023
+01-07-2023,01-07-2023,01-07-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"29,180.68",FALSE,zford,06-09-2023
+01-07-2023,01-07-2023,01-07-2023,Paydown,Paydown,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"7,500.00",FALSE,zford,06-09-2023
+01-07-2023,01-07-2023,01-07-2023,Interest,Interest,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"84,299.08",FALSE,JMartino,06-07-2023
+01-07-2023,01-07-2023,03-07-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Neptune Flood-Revolving Loan-PCOF IV-Assignment,LX212993,190.06,FALSE,JMartino,11-07-2023
+03-07-2023,03-07-2023,03-07-2023,Interest,Interest,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"20,457.89",FALSE,JMartino,08-08-2023
+03-07-2023,03-07-2023,03-07-2023,Prepayment Penalty,Prepayment Penalty,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"2,105.26",FALSE,JMartino,08-08-2023
+05-07-2023,05-07-2023,05-07-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"13,467.39",FALSE,DMinkin,13-07-2023
+05-07-2023,05-07-2023,05-07-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,424.02,FALSE,DMinkin,13-07-2023
+07-07-2023,07-07-2023,07-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-16,379.44",FALSE,GSmith,07-07-2023
+07-07-2023,07-07-2023,07-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-20,100.35",FALSE,GSmith,07-07-2023
+12-07-2023,12-07-2023,12-07-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"16,750.51",FALSE,JMartino,12-07-2023
+26-07-2023,26-07-2023,26-07-2023,Interest,Interest,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"1,584.13",FALSE,JMartino,01-08-2023
+26-07-2023,26-07-2023,26-07-2023,Borrowing,Borrowing,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"-2,78,947.37",FALSE,JMartino,26-07-2023
+28-07-2023,28-07-2023,28-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-18,723.28",FALSE,GSmith,31-07-2023
+28-07-2023,28-07-2023,28-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-32,106.21",FALSE,GSmith,31-07-2023
+28-07-2023,28-07-2023,28-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-1,89,718.50",FALSE,GSmith,31-07-2023
+28-07-2023,28-07-2023,28-07-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-29,958.14",FALSE,GSmith,31-07-2023
+31-07-2023,31-07-2023,31-07-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,153.77,FALSE,zford,07-09-2023
+31-07-2023,31-07-2023,31-07-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"32,475.04",FALSE,gandalf,27-07-2023
+31-07-2023,31-07-2023,31-07-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"22,832.70",FALSE,gandalf,27-07-2023
+31-07-2023,31-07-2023,31-07-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,237.59,FALSE,zford,02-08-2023
+31-07-2023,31-07-2023,31-07-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,537.17,FALSE,JMartino,01-08-2023
+31-07-2023,31-07-2023,31-07-2023,Interest,Interest,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"54,753.62",FALSE,EFan,02-08-2023
+31-07-2023,31-07-2023,31-07-2023,Paydown,Paydown,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"1,05,263.16",FALSE,EFan,22-08-2023
+31-07-2023,31-07-2023,31-07-2023,Upfront Fee,Upfront Fee,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"2,105.26",FALSE,EFan,26-09-2023
+26-07-2023,01-08-2023,01-08-2023,Upfront Fee (Buy),Upfront Fee (Buy),IDS-Initial Term Loan-PCOF IV-Assignment,LX214995,"51,555.56",FALSE,JMartino,16-08-2023
+26-07-2023,01-08-2023,01-08-2023,Buy,Principal (Buy),IDS-Initial Term Loan-PCOF IV-Assignment,LX214995,"-25,77,777.78",FALSE,JMartino,16-08-2023
+01-08-2023,01-08-2023,01-08-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"29,996.84",FALSE,zford,06-09-2023
+01-08-2023,01-08-2023,01-08-2023,Commitment Fee,Commitment Fee,IDS-Revolving Loan-PCOF IV-Assignment,LX214996,"8,444.45",FALSE,JMartino,02-08-2023
+01-08-2023,01-08-2023,01-08-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"23,00,000.00",FALSE,GSmith,01-08-2023
+03-08-2023,03-08-2023,03-08-2023,Interest,Interest,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"19,692.48",FALSE,gandalf,08-08-2023
+03-08-2023,03-08-2023,03-08-2023,Borrowing,Borrowing,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,"-1,12,359.55",FALSE,zford,03-08-2023
+10-08-2023,10-08-2023,10-08-2023,Refundable Paydown,Unscheduled Prime Paydown,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"52,631.58",FALSE,DMinkin,04-10-2023
+14-08-2023,14-08-2023,14-08-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"18,497.00",FALSE,zford,23-08-2023
+17-08-2023,17-08-2023,17-08-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"27,512.04",FALSE,DMinkin,25-09-2023
+28-08-2023,28-08-2023,28-08-2023,Interest,Interest,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,"1,831.68",FALSE,gandalf,24-08-2023
+28-08-2023,28-08-2023,28-08-2023,Interest,Interest,Engine & Transmission Exchange-Term Loan A-PCOF IV-Assignment,LX212914,"45,791.90",FALSE,gandalf,24-08-2023
+28-08-2023,28-08-2023,28-08-2023,Interest,Interest,Five Star-FL DDTLB-PCOF IV-Assignment,1722,"1,773.44",FALSE,zford,07-09-2023
+30-08-2023,30-08-2023,30-08-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"50,00,000.00",FALSE,GSmith,30-08-2023
+18-08-2023,31-08-2023,31-08-2023,Upfront Fee (Buy),Upfront Fee,Integrity-1L - Rev - Senior-PCOF IV-Assignment,1801, -   ,FALSE,JMartino,12-09-2023
+18-08-2023,31-08-2023,31-08-2023,Upfront Fee (Buy),Upfront Fee,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799, -   ,FALSE,JMartino,16-11-2023
+22-08-2023,31-08-2023,31-08-2023,Buy,Buy,NORA-Common Equity-PCOF IV-Long,1805,"-3,06,590.00",FALSE,gandalf,30-08-2023
+22-08-2023,31-08-2023,31-08-2023,Upfront Fee (Buy),Upfront Fee (Buy),NORA-Term Loan A-PCOF IV-Assignment,LX216658,"1,00,000.00",FALSE,JMartino,01-09-2023
+22-08-2023,31-08-2023,31-08-2023,Buy,Principal (Buy),NORA-Term Loan A-PCOF IV-Assignment,LX216658,"-50,00,000.00",FALSE,JMartino,01-09-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"4,024.28",FALSE,DMinkin,25-09-2023
+31-08-2023,31-08-2023,31-08-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,153.77,FALSE,zford,07-09-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"33,032.06",FALSE,gandalf,29-08-2023
+31-08-2023,31-08-2023,31-08-2023,Prepayment Penalty,Prepayment Penalty,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"34,822.33",FALSE,zford,26-10-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"38,781.15",FALSE,zford,26-10-2023
+31-08-2023,31-08-2023,31-08-2023,Paydown,Paydown,ECL Entertainment-Term B Loan-PCOF IV-Assignment,LX193677,"34,82,233.50",FALSE,zford,26-10-2023
+31-08-2023,31-08-2023,31-08-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-First Lien - Rev 2018-PCOF IV-Assignment,1723,237.59,FALSE,zford,07-09-2023
+31-08-2023,31-08-2023,31-08-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Five Star-FL DDTLB-PCOF IV-Assignment,1722,537.17,FALSE,zford,07-09-2023
+31-08-2023,31-08-2023,31-08-2023,Commitment Fee,Commitment Fee,Integrity-1L - Rev - Senior-PCOF IV-Assignment,1801,797.87,FALSE,JMartino,12-09-2023
+31-08-2023,31-08-2023,31-08-2023,Commitment Fee,Commitment Fee,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799,"6,250.00",FALSE,JMartino,16-11-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"55,684.31",FALSE,gandalf,29-08-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,Loving Tan-Closing Date Term Loan-PCOF IV-Assignment,LX213391,"78,351.67",FALSE,zford,21-08-2023
+31-08-2023,31-08-2023,31-08-2023,Interest,Interest,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,"1,076.48",FALSE,zford,21-08-2023
+31-08-2023,31-08-2023,31-08-2023,Paydown,Paydown,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"78,947.37",FALSE,EFan,26-09-2023
+31-08-2023,31-08-2023,31-08-2023,Upfront Fee,Upfront Fee,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"1,578.94",FALSE,EFan,26-09-2023
+31-08-2023,31-08-2023,31-08-2023,Commitment Fee,Commitment Fee,NORA-1L - Rev - Revolver-PCOF IV-Assignment,1804,"12,500.00",FALSE,JMartino,01-09-2023
+01-09-2023,01-09-2023,01-09-2023,Interest,Interest,"BIODERM, INC.-First Lien TL-PCOF IV-Assignment",1701,"30,453.10",FALSE,zford,07-09-2023
+01-09-2023,01-09-2023,01-09-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-3,63,755.28",FALSE,GSmith,01-09-2023
+01-09-2023,01-09-2023,01-09-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-15,505.08",FALSE,GSmith,01-09-2023
+13-09-2023,13-09-2023,13-09-2023,Refundable Paydown,Unscheduled Paydown,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,"60,000.00",FALSE,gandalf,14-09-2023
+14-09-2023,14-09-2023,14-09-2023,Capital Call,Capital Call,*** Direct Entry ***,,"2,50,00,000.00",FALSE,SKratka,14-09-2023
+14-09-2023,14-09-2023,14-09-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"17,543.61",FALSE,JMartino,02-11-2023
+15-09-2023,15-09-2023,15-09-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-50,00,000.00",FALSE,GSmith,15-09-2023
+15-09-2023,15-09-2023,15-09-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-60,00,000.00",FALSE,GSmith,15-09-2023
+20-09-2023,20-09-2023,20-09-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"12,869.96",FALSE,DMinkin,27-09-2023
+20-09-2023,20-09-2023,20-09-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"12,983.48",FALSE,DMinkin,27-09-2023
+22-09-2023,22-09-2023,22-09-2023,Borrowing,Borrowing,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,"-42,134.83",FALSE,zford,21-09-2023
+25-09-2023,25-09-2023,25-09-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"51,088.46",FALSE,JMartino,02-11-2023
+30-06-2023,30-06-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Simplicity Group-1L - DDTL - DDTL-PCOF IV-Assignment,1744,"2,125.25",FALSE,JMartino,11-07-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"45,682.90",FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"3,828.08",FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"2,259.32",FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"2,307.29",FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Unscheduled Paydown,Unscheduled Paydown,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,332.67,FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,A1 Garage Doors-First Lien - Rev 2018-PCOF IV-Assignment,1679,"1,599.86",FALSE,DMinkin,03-10-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"1,48,919.74",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,A1 Garage Doors-Term Loan A-PCOF IV-Assignment,LX210293,"12,500.00",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"89,052.76",FALSE,EFan,05-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Anteriad (f/k/a MeritDirect)-1L - TL - Incremental-PCOF IV-Assignment,1739,"37,500.00",FALSE,EFan,05-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"5,495.17",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Borrowing,Borrowing,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"-3,07,971.01",FALSE,gandalf,28-09-2023
+29-09-2023,29-09-2023,29-09-2023,Upfront Fee,Upfront Fee,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"4,619.57",FALSE,JMartino,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"5,000.00",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"82,937.19",FALSE,gandalf,28-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,"Beta Plus Technologies, Inc.-T/L-PCOF IV-Assignment",LX206113,"7,518.80",FALSE,gandalf,28-09-2023
+29-09-2023,29-09-2023,29-09-2023,Borrowing,Borrowing,"BIODERM, INC.-First Lien - Rev 2018-PCOF IV-Assignment",1702,"-35,714.29",FALSE,JMartino,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"30,930.87",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"7,500.00",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,165,FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Engine & Transmission Exchange-Term Loan A-PCOF IV-Assignment,LX212914,"3,750.00",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - DDTL-PCOF IV-Assignment,1685,"3,317.71",FALSE,EFan,06-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Epiq-First Lien - Rev 2018-PCOF IV-Assignment,1684,995.31,FALSE,EFan,06-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Epiq-First Lien TL-PCOF IV-Assignment,1686,"1,01,416.95",FALSE,EFan,06-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Epiq-First Lien TL-PCOF IV-Assignment,1686,"8,750.00",FALSE,EFan,06-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"24,620.27",FALSE,JMartino,02-11-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"1,52,063.66",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Infinity-Closing Date Term Loan-PCOF IV-Assignment,LX210065,"12,500.00",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"15,572.35",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"3,570.27",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"2,538.45",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Prime Interest,PRIME Interest,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,832.73,FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Infinity-Revolving Loan-PCOF IV-Assignment,LX210067,"1,300.44",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799,"1,006.94",FALSE,JMartino,16-11-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"52,141.76",FALSE,gandalf,28-09-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"12,500.00",FALSE,gandalf,28-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Loving Tan-Closing Date Term Loan-PCOF IV-Assignment,LX213391,"24,833.38",FALSE,zford,02-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Loving Tan-Closing Date Term Loan-PCOF IV-Assignment,LX213391,"6,250.00",FALSE,zford,02-10-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,"1,116.11",FALSE,EFan,04-12-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,101.56,FALSE,EFan,04-12-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"54,663.28",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"5,414.77",FALSE,DMinkin,04-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,NORA-1L - Rev - Revolver-PCOF IV-Assignment,1804,251.74,FALSE,EFan,13-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,NORA-Term Loan A-PCOF IV-Assignment,LX216658,"47,048.71",FALSE,EFan,13-09-2023
+29-09-2023,29-09-2023,29-09-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-17,430.33",FALSE,GSmith,29-09-2023
+29-09-2023,29-09-2023,29-09-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,87,193.61",FALSE,GSmith,29-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-13,590.28",FALSE,GSmith,29-09-2023
+29-09-2023,29-09-2023,29-09-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"15,00,000.00",FALSE,GSmith,29-09-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"1,05,781.95",FALSE,EFan,11-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Simplicity Group-T/L B-PCOF IV-Assignment,LX193262,"9,009.01",FALSE,EFan,11-10-2023
+29-09-2023,29-09-2023,29-09-2023,Interest,Interest,Sparq-Closing Date Term Loan-PCOF IV-Assignment,LX213431,"83,977.76",FALSE,JMartino,24-10-2023
+29-09-2023,29-09-2023,29-09-2023,Paydown,Paydown,Sparq-Closing Date Term Loan-PCOF IV-Assignment,LX213431,"6,250.00",FALSE,JMartino,24-10-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Sparq-Delayed Draw Term Loan-PCOF IV-Assignment,1762,"1,404.32",FALSE,gandalf,27-09-2023
+29-09-2023,29-09-2023,29-09-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Sparq-Revolving Loan-PCOF IV-Assignment,1761,526.62,FALSE,gandalf,27-09-2023
+10-08-2023,10-08-2023,01-10-2023,Interest,Interest,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"64,504.15",FALSE,EFan,11-10-2023
+01-10-2023,01-10-2023,01-10-2023,Interest,Interest,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"83,783.20",FALSE,EFan,11-10-2023
+01-10-2023,01-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Neptune Flood-Revolving Loan-PCOF IV-Assignment,LX212993,336.26,FALSE,gandalf,03-10-2023
+02-10-2023,02-10-2023,02-10-2023,Commitment Fee,Commitment Fee,Avenu-Delayed Draw Term Loan-PCOF IV-Assignment,1815,"5,357.14",FALSE,JMartino,04-10-2023
+02-10-2023,02-10-2023,02-10-2023,Upfront Fee,Upfront Fee,Avenu-Revolving Loan-PCOF IV-Assignment,1812,"8,035.71",FALSE,JMartino,04-10-2023
+02-10-2023,02-10-2023,02-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),Avenu-T/L-PCOF IV-Assignment,LX217673,"46,875.00",FALSE,JMartino,10-10-2023
+02-10-2023,02-10-2023,02-10-2023,Buy,Principal (Buy),Avenu-T/L-PCOF IV-Assignment,LX217673,"-25,00,000.00",FALSE,JMartino,10-10-2023
+02-10-2023,02-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-1L RCF-PCOF IV-Assignment",1780,663.84,FALSE,zford,04-10-2023
+02-10-2023,02-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Loving Tan-Revolving Loan-PCOF IV-Assignment,1771,384.29,FALSE,zford,21-09-2023
+02-10-2023,02-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Simplicity Group-1L - DDTL - DDTL-PCOF IV-Assignment,1744,"2,322.95",FALSE,EFan,06-10-2023
+02-10-2023,02-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Simplicity Group-Revolving Loan-PCOF IV-Assignment,1742,308.75,FALSE,EFan,06-10-2023
+02-10-2023,02-10-2023,02-10-2023,Accrued Unfunded Fee,Accrued Unfunded Fee,Solaris Health-DDTL-PCOF IV-Assignment,1705,"5,833.33",FALSE,JMartino,07-11-2023
+02-10-2023,02-10-2023,02-10-2023,Borrowing,Borrowing,Solaris Health-DDTL-PCOF IV-Assignment,1705,"-6,44,444.44",FALSE,JMartino,07-11-2023
+06-10-2023,06-10-2023,06-10-2023,Capital Call,Capital Call,*** Direct Entry ***,,"87,75,000.00",FALSE,SKratka,06-10-2023
+06-10-2023,06-10-2023,06-10-2023,Capital Call,Capital Call,*** Direct Entry ***,,"80,00,000.00",FALSE,SKratka,06-10-2023
+06-10-2023,06-10-2023,06-10-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-15,00,000.00",FALSE,GSmith,06-10-2023
+06-10-2023,06-10-2023,06-10-2023,Refundable Paydown,Unscheduled LIBOR Paydown,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-65,00,000.00",FALSE,GSmith,06-10-2023
+27-09-2023,11-10-2023,11-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"88,860.31",FALSE,JMartino,11-10-2023
+27-09-2023,11-10-2023,11-10-2023,Buy,Principal (Buy),MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,"-20,90,830.74",FALSE,JMartino,11-10-2023
+11-10-2023,11-10-2023,11-10-2023,Economic Benefit,Economic Benefit,MAG Aerospace-Initial Term Loan-PCOF IV-Assignment,LX187438,241.89,FALSE,JMartino,11-10-2023
+12-10-2023,12-10-2023,12-10-2023,Prime Borrowing,Prime Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"25,00,000.00",FALSE,GSmith,12-10-2023
+16-10-2023,16-10-2023,16-10-2023,Interest,Interest,Five Star-First Lien TL-PCOF IV-Assignment,LX207714,"17,995.75",FALSE,JMartino,02-11-2023
+16-10-2023,16-10-2023,16-10-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"1,30,00,000.00",FALSE,GSmith,16-10-2023
+02-10-2023,17-10-2023,17-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),PS-Initial Term Loan-PCOF IV-Assignment,LX218455,"50,000.00",FALSE,JMartino,18-10-2023
+02-10-2023,17-10-2023,17-10-2023,Buy,Principal (Buy),PS-Initial Term Loan-PCOF IV-Assignment,LX218455,"-25,00,000.00",FALSE,JMartino,18-10-2023
+17-10-2023,17-10-2023,17-10-2023,Commitment Fee,Commitment Fee,PS-1L - DDTL - DDTL-PCOF IV-Assignment,1826,"2,232.14",FALSE,JMartino,18-10-2023
+17-10-2023,17-10-2023,17-10-2023,Commitment Fee,Commitment Fee,PS-1L - Rev - Rev-PCOF IV-Assignment,1824,"4,464.29",FALSE,JMartino,18-10-2023
+16-10-2023,18-10-2023,18-10-2023,Buy,Buy,"NEW MEDINA HEALTH, LLC-Common Equity-PCOF IV-Long",1830,"-4,14,403.23",FALSE,gandalf,23-10-2023
+16-10-2023,20-10-2023,20-10-2023,Buy,Principal (Buy),Comprehensive Rehab Consultants-1L - Rev - Revolver-PCOF IV-Assignment,1829,"-1,13,924.05",FALSE,JMartino,23-10-2023
+16-10-2023,20-10-2023,20-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),Comprehensive Rehab Consultants-T/L-PCOF IV-Assignment,LX218963,"1,04,734.18",FALSE,JMartino,23-10-2023
+16-10-2023,20-10-2023,20-10-2023,Buy,Principal (Buy),Comprehensive Rehab Consultants-T/L-PCOF IV-Assignment,LX218963,"-59,84,810.13",FALSE,JMartino,23-10-2023
+20-10-2023,20-10-2023,20-10-2023,Commitment Fee,Commitment Fee,Comprehensive Rehab Consultants-1L - Rev - Revolver-PCOF IV-Assignment,1829,"13,291.14",FALSE,JMartino,02-11-2023
+03-10-2023,23-10-2023,23-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),Paris Presents / Freeman-Initial Term Facility (First Lien)-PCOF IV-Assignment,LX175937,"4,00,000.00",FALSE,JMartino,24-10-2023
+03-10-2023,23-10-2023,23-10-2023,Buy,Principal (Buy),Paris Presents / Freeman-Initial Term Facility (First Lien)-PCOF IV-Assignment,LX175937,"-50,00,000.00",FALSE,JMartino,24-10-2023
+26-10-2023,26-10-2023,26-10-2023,Interest,Interest,Infinity-Closing DD TL-PCOF IV-Assignment,LX210066,"8,697.42",FALSE,JMartino,31-10-2023
+27-10-2023,27-10-2023,27-10-2023,LIBOR Interest,Process Receivable,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,282.61",FALSE,GSmith,27-10-2023
+27-10-2023,27-10-2023,27-10-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,38,844.21",FALSE,GSmith,27-10-2023
+16-10-2023,31-10-2023,31-10-2023,Buy,Buy,"JF Intermediate, LLC-Common Equity-PCOF IV-Long",1635,"-2,42,308.00",FALSE,gandalf,30-10-2023
+16-10-2023,31-10-2023,31-10-2023,Upfront Fee (Buy),Upfront Fee (Buy),MidOcean JF -5th Amendment TL-PCOF IV-Assignment,1835,"75,000.00",FALSE,JMartino,31-10-2023
+16-10-2023,31-10-2023,31-10-2023,Buy,Principal (Buy),MidOcean JF -5th Amendment TL-PCOF IV-Assignment,1835,"-50,00,000.00",FALSE,JMartino,31-10-2023
+31-10-2023,31-10-2023,31-10-2023,Borrowing,Borrowing,Ardurra Group-Delayed Draw Term Loan-PCOF IV-Assignment,LX210727,"-5,41,449.27",FALSE,gandalf,31-10-2023
+31-10-2023,31-10-2023,31-10-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"34,005.33",FALSE,gandalf,27-10-2023
+31-10-2023,31-10-2023,31-10-2023,Interest,Interest,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"57,325.48",FALSE,EFan,01-11-2023
+31-10-2023,31-10-2023,31-10-2023,Upfront Fee,Upfront Fee,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"2,105.26",FALSE,EFan,02-11-2023
+31-10-2023,31-10-2023,31-10-2023,Paydown,Paydown,Neptune Flood-T/L B-PCOF IV-Assignment,LX204628,"1,05,263.16",FALSE,EFan,08-11-2023
+31-10-2023,31-10-2023,31-10-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"69,00,000.00",FALSE,GSmith,31-10-2023
+01-11-2023,01-11-2023,01-11-2023,Interest,Interest,IDS-Initial Term Loan-PCOF IV-Assignment,LX214995,"78,208.04",FALSE,gandalf,01-11-2023
+03-11-2023,03-11-2023,03-11-2023,Interest,Interest,Ardurra Group-Term Loan-PCOF IV-Assignment,LX210725,"59,931.58",FALSE,gandalf,01-11-2023
+03-11-2023,03-11-2023,03-11-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-75,000.00",FALSE,SKratka,11-12-2023
+07-11-2023,07-11-2023,07-11-2023,Upfront Fee,Upfront Fee,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799,437.5,FALSE,JMartino,07-11-2023
+07-11-2023,07-11-2023,07-11-2023,Borrowing,Borrowing,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799,"-87,500.00",FALSE,JMartino,16-11-2023
+07-11-2023,07-11-2023,07-11-2023,Commitment Fee,Commitment Fee,Integrity-Amendment No. 14 Delayed Draw Term Loan-PCOF IV-Assignment,1799,337.5,FALSE,JMartino,16-11-2023
+07-11-2023,07-11-2023,07-11-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"46,00,000.00",FALSE,GSmith,07-11-2023
+02-11-2023,08-11-2023,08-11-2023,Upfront Fee (Buy),Upfront Fee (Buy),P&H-Initial Term Loan-PCOF IV-Assignment,1838,"60,000.00",FALSE,JMartino,13-11-2023
+02-11-2023,08-11-2023,08-11-2023,Buy,Principal (Buy),P&H-Initial Term Loan-PCOF IV-Assignment,1838,"-40,00,000.00",FALSE,JMartino,13-11-2023
+08-11-2023,08-11-2023,08-11-2023,Commitment Fee,Commitment Fee,P&H-1L - DDTL - DDTL-PCOF IV-Assignment,1836,"11,764.71",FALSE,JMartino,13-11-2023
+10-11-2023,10-11-2023,10-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-15,133.51",FALSE,GSmith,10-11-2023
+10-11-2023,10-11-2023,10-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-70,760.63",FALSE,GSmith,10-11-2023
+17-11-2023,17-11-2023,17-11-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"28,115.67",FALSE,DMinkin,30-11-2023
+20-11-2023,22-11-2023,22-11-2023,Upfront Fee (Buy),Upfront Fee (Buy),"Inception Fertility Ventures, LLC-15th Amendment Term Loan-PCOF IV-Assignment",1847,"45,000.00",FALSE,JMartino,04-12-2023
+20-11-2023,22-11-2023,22-11-2023,Buy,Principal (Buy),"Inception Fertility Ventures, LLC-15th Amendment Term Loan-PCOF IV-Assignment",1847,"-30,00,000.00",FALSE,JMartino,04-12-2023
+22-11-2023,22-11-2023,22-11-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"30,00,000.00",FALSE,GSmith,22-11-2023
+24-11-2023,24-11-2023,24-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,28,868.48",FALSE,GSmith,29-11-2023
+24-11-2023,24-11-2023,24-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-35,990.95",FALSE,GSmith,29-11-2023
+27-11-2023,27-11-2023,27-11-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-2,50,000.00",FALSE,SKratka,11-12-2023
+27-11-2023,27-11-2023,27-11-2023,Misc Fee,Misc Fee,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-5,62,500.00",FALSE,SKratka,11-12-2023
+28-11-2023,28-11-2023,28-11-2023,Interest,Interest,Engine & Transmission Exchange-Revolving Loan-PCOF IV-Assignment,LX212915,317.01,FALSE,gandalf,29-11-2023
+28-11-2023,28-11-2023,28-11-2023,Interest,Interest,Engine & Transmission Exchange-Term Loan A-PCOF IV-Assignment,LX212914,"45,495.98",FALSE,gandalf,24-11-2023
+28-11-2023,28-11-2023,28-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-20,988.39",FALSE,GSmith,04-12-2023
+28-11-2023,28-11-2023,28-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-60,615.31",FALSE,GSmith,04-12-2023
+28-11-2023,28-11-2023,28-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-3,917.42",FALSE,GSmith,04-12-2023
+28-11-2023,28-11-2023,28-11-2023,LIBOR Interest,LIBOR Interest,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"-38,778.73",FALSE,GSmith,04-12-2023
+30-11-2023,30-11-2023,30-11-2023,Interest,Interest,A1 Garage Doors-First Lien - DDTL-PCOF IV-Assignment,1678,"4,023.60",FALSE,DMinkin,30-11-2023
+30-11-2023,30-11-2023,30-11-2023,Interest,Interest,Confluent Health-Amendment No. 1 Term Loan-PCOF IV-Assignment,LX210834,"31,900.00",FALSE,gandalf,28-11-2023
+30-11-2023,30-11-2023,30-11-2023,Interest,Interest,IDS-Initial Term Loan-PCOF IV-Assignment,LX214995,"24,544.91",FALSE,gandalf,01-12-2023
+30-11-2023,30-11-2023,30-11-2023,Interest,Interest,"Inventus Power, Inc. (f/k/a ICC-Nexergy, Inc.)-Term Loan-PCOF IV-Assignment",LX213612,"53,776.06",FALSE,zford,30-11-2023
+29-11-2023,01-12-2023,01-12-2023,Upfront Fee (Buy),Upfront Fee (Buy),Watchtower -1L - DDTL - Initial-PCOF IV-Assignment,1850,"13,000.00",FALSE,EFan,14-12-2023
+29-11-2023,01-12-2023,01-12-2023,Upfront Fee (Buy),Upfront Fee (Buy),Watchtower -1L - Rev - Rev-PCOF IV-Assignment,1848,"19,500.00",FALSE,EFan,14-12-2023
+29-11-2023,01-12-2023,01-12-2023,Buy,Principal (Buy),Watchtower -1L - Rev - Rev-PCOF IV-Assignment,1848,"-2,40,000.00",FALSE,EFan,14-12-2023
+29-11-2023,01-12-2023,01-12-2023,Upfront Fee (Buy),Upfront Fee (Buy),Watchtower -1L - TL - Initial-PCOF IV-Assignment,1849,"65,000.00",FALSE,EFan,14-12-2023
+29-11-2023,01-12-2023,01-12-2023,Buy,Principal (Buy),Watchtower -1L - TL - Initial-PCOF IV-Assignment,1849,"-40,00,000.00",FALSE,EFan,14-12-2023
+29-11-2023,01-12-2023,01-12-2023,Buy,Buy,WatchTower-Common Equity-PCOF IV-Long,1851,"-3,44,086.02",FALSE,gandalf,01-12-2023
+01-12-2023,01-12-2023,01-12-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"30,00,000.00",FALSE,GSmith,04-12-2023
+01-12-2023,01-12-2023,01-12-2023,Prime Borrowing,Prime Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"10,00,000.00",FALSE,GSmith,04-12-2023
+08-12-2023,08-12-2023,08-12-2023,LIBOR Borrowing,LIBOR Borrowing,PCOF IV Agg-Rev-PCOF IV Credit Facility-Assignment,,"1,15,00,000.00",FALSE,GSmith,08-12-2023
