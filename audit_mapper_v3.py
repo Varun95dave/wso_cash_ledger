@@ -69,7 +69,7 @@ def wired_calculations(bdf,tdf):
 
     # Mapping Buy Equity
     bdf['equity_flag'] = ['Y' if 'Equity' in elm else 'N' for elm in bdf['Source']]
-        ct_df5 = rule_executor({'equity_flag':['Y']}, False, bdf, t_df, ['Amount'], ['Transaction Amount Reporting Equivalent'])
+    ct_df5 = rule_executor({'equity_flag':['Y']}, False, bdf, t_df, ['Amount'], ['Transaction Amount Reporting Equivalent'])
     ct_df5.drop(columns=['equity_flag'], inplace=True)
     ct_df5.to_csv("intermediate_v5.csv", index=False)
 
